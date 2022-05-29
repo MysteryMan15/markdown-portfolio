@@ -1,0 +1,9 @@
+- Favorite Disney Movies
+  - A Goofy Movie
+  - Hercules
+  - Oliver and Company
+  - Aladin
+- Favorite Books
+  - Skyward
+  - Words of Radiance
+  - A Horse and His Boy    
