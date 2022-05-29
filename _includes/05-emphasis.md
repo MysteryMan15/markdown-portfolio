@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a **HUGE** fan of Disney movies considering it's what basically _consumed my entire childhood_. I've been used to having **fresh-made** pastires on the table every weekend resulting in my *love of baking*
