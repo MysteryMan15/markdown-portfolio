@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Cladious Test Landing Page
+The beginning fo flowing through GIT for app developlement
